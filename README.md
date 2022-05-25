@@ -12,9 +12,9 @@ Im **Marga Delos Santos** also known as **M or Em**,with 1 year of experience in
   
 ### Current Status Quo:
 
-- 💼 Front End Developer <strong>React.js/ Node.js Developer</strong>.
+- 💼 Front End Developer <strong>html/css/ Javascript Developer</strong>.
 - 🔍 I’m looking for connections in <strong>Web Development</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
+- 💬 Feel free to discuss with me about <strong>Web Development</strong>
 
 
 ### Tools I work upon : 🛠
